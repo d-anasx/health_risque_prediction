@@ -1,0 +1,238 @@
+[2026-11-14T13:32:48.735+0000] {processor.py:161} INFO - Started process (PID=22344) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:32:48.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:32:48.739+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:32:48.738+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:32:50.091+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:32:50.116+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:32:50.116+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:32:50.126+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:32:50.126+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:32:50.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.419 seconds
+[2026-11-14T13:33:20.351+0000] {processor.py:161} INFO - Started process (PID=22357) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:20.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:33:20.354+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:20.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:21.663+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:21.689+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:21.689+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:33:21.700+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:21.699+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:33:21.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.382 seconds
+[2026-11-14T13:33:52.031+0000] {processor.py:161} INFO - Started process (PID=22370) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:52.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:33:52.035+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:52.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:53.465+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:33:53.496+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:53.495+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:33:53.511+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:33:53.511+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:33:53.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.510 seconds
+[2026-11-14T13:34:23.803+0000] {processor.py:161} INFO - Started process (PID=22383) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:23.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:34:23.805+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:23.805+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:24.945+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:24.970+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:24.969+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:34:24.980+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:24.980+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:34:25.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.202 seconds
+[2026-11-14T13:34:55.074+0000] {processor.py:161} INFO - Started process (PID=22396) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:55.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:34:55.076+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:55.076+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:56.224+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:34:56.249+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:56.249+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:34:56.259+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:34:56.259+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:34:56.280+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.212 seconds
+[2026-11-14T13:35:26.525+0000] {processor.py:161} INFO - Started process (PID=22409) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:26.527+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:35:26.528+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:26.528+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:27.756+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:27.781+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:27.781+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:35:27.791+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:27.791+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:35:27.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.296 seconds
+[2026-11-14T13:35:58.105+0000] {processor.py:161} INFO - Started process (PID=22422) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:58.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:35:58.108+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:58.107+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:59.546+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:35:59.584+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:59.582+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:35:59.596+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:35:59.596+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:35:59.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.526 seconds
+[2026-11-14T13:36:29.948+0000] {processor.py:161} INFO - Started process (PID=22435) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:36:29.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:36:29.951+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:36:29.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:36:31.099+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:36:31.122+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:36:31.122+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:36:31.132+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:36:31.132+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:36:31.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.213 seconds
+[2026-11-14T13:37:01.443+0000] {processor.py:161} INFO - Started process (PID=22448) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:01.444+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:37:01.446+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:01.445+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:02.645+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:02.668+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:02.667+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:37:02.681+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:02.680+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:37:02.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.267 seconds
+[2026-11-14T13:37:33.064+0000] {processor.py:161} INFO - Started process (PID=22461) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:33.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:37:33.067+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:33.067+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:34.330+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:37:34.355+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:34.355+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:37:34.365+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:37:34.365+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:37:34.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.328 seconds
+[2026-11-14T13:38:04.644+0000] {processor.py:161} INFO - Started process (PID=22474) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:04.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:38:04.648+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:04.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:06.114+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:06.149+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:06.148+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:38:06.163+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:06.162+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:38:06.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.554 seconds
+[2026-11-14T13:38:36.475+0000] {processor.py:161} INFO - Started process (PID=22487) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:36.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:38:36.478+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:36.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:37.727+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:38:37.754+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:37.754+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:38:37.764+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:38:37.764+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:38:37.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.320 seconds
+[2026-11-14T13:39:08.072+0000] {processor.py:161} INFO - Started process (PID=22500) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:08.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:39:08.077+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:08.076+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:09.509+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:09.535+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:09.535+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:39:09.547+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:09.547+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:39:09.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.511 seconds
+[2026-11-14T13:39:39.850+0000] {processor.py:161} INFO - Started process (PID=22513) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:39.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:39:39.853+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:39.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:41.263+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:39:41.289+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:41.289+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:39:41.299+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:39:41.299+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:39:41.320+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.479 seconds
+[2026-11-14T13:40:11.522+0000] {processor.py:161} INFO - Started process (PID=22526) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:11.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:40:11.525+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:11.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:12.910+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:12.938+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:12.937+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:40:12.948+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:12.948+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:40:12.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.458 seconds
+[2026-11-14T13:40:43.248+0000] {processor.py:161} INFO - Started process (PID=22539) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:43.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:40:43.252+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:43.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:44.609+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:40:44.637+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:44.637+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:40:44.647+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:40:44.647+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:40:44.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.427 seconds
+[2026-11-14T13:41:14.949+0000] {processor.py:161} INFO - Started process (PID=22552) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:14.951+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:41:14.952+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:14.952+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:16.243+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:16.275+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:16.274+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:41:16.287+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:16.287+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:41:16.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.375 seconds
+[2026-11-14T13:41:46.595+0000] {processor.py:161} INFO - Started process (PID=22565) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:46.597+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:41:46.599+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:46.598+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:48.287+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:41:48.321+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:48.321+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:41:48.335+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:41:48.334+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:41:48.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.773 seconds
+[2026-11-14T13:42:18.471+0000] {processor.py:161} INFO - Started process (PID=22578) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:18.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:42:18.474+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:18.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:19.792+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:19.819+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:19.818+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:42:19.830+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:19.830+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:42:19.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.394 seconds
+[2026-11-14T13:42:50.109+0000] {processor.py:161} INFO - Started process (PID=22591) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:50.111+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:42:50.112+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:50.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:51.614+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:42:51.648+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:51.647+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:42:51.663+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:42:51.663+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:42:51.694+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.593 seconds
+[2026-11-14T13:43:22.000+0000] {processor.py:161} INFO - Started process (PID=22604) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:22.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:43:22.003+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:22.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:23.328+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:23.354+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:23.354+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:43:23.364+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:23.364+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:43:23.387+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.393 seconds
+[2026-11-14T13:43:53.566+0000] {processor.py:161} INFO - Started process (PID=22617) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:53.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:43:53.569+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:53.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:55.057+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:43:55.086+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:55.085+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:43:55.100+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:43:55.100+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:43:55.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.570 seconds
+[2026-11-14T13:44:25.378+0000] {processor.py:161} INFO - Started process (PID=22630) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:44:25.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:44:25.382+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:44:25.381+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:44:26.747+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:44:26.773+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:44:26.772+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:44:26.784+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:44:26.784+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:44:26.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.435 seconds
+[2026-11-14T13:44:57.440+0000] {processor.py:161} INFO - Started process (PID=22643) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:44:57.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:44:57.478+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:44:57.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:45:01.545+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:45:01.577+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:45:01.576+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:45:01.600+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:45:01.600+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:45:01.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 4.417 seconds
+[2026-11-14T13:45:32.027+0000] {processor.py:161} INFO - Started process (PID=22656) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:45:32.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:45:32.033+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:45:32.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:45:33.719+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:45:33.757+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:45:33.757+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:45:33.773+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:45:33.772+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:45:33.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.793 seconds
+[2026-11-14T13:46:03.904+0000] {processor.py:161} INFO - Started process (PID=22669) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:03.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:46:03.907+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:03.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:05.092+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:05.119+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:05.118+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:46:05.129+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:05.128+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:46:05.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.252 seconds
+[2026-11-14T13:46:35.330+0000] {processor.py:161} INFO - Started process (PID=22682) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:35.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:46:35.334+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:35.333+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:36.662+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:46:36.690+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:36.690+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:46:36.700+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:46:36.700+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:46:36.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.401 seconds
+[2026-11-14T13:47:07.001+0000] {processor.py:161} INFO - Started process (PID=22695) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:07.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:47:07.005+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:07.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:08.475+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:08.499+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:08.498+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:47:08.509+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:08.508+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:47:08.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.537 seconds
+[2026-11-14T13:47:38.872+0000] {processor.py:161} INFO - Started process (PID=22708) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:38.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:47:38.875+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:38.875+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:40.159+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:47:40.183+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:40.182+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:47:40.195+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:47:40.195+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:47:40.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.353 seconds
+[2026-11-14T13:48:10.454+0000] {processor.py:161} INFO - Started process (PID=22721) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:10.456+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:48:10.457+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:10.457+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:11.663+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:11.687+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:11.687+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:48:11.697+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:11.697+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:48:11.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.479 seconds
+[2026-11-14T13:48:42.213+0000] {processor.py:161} INFO - Started process (PID=22734) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:42.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:48:42.216+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:42.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:43.451+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:48:43.481+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:43.481+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:48:43.494+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:48:43.493+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:48:43.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.304 seconds
+[2026-11-14T13:49:13.818+0000] {processor.py:161} INFO - Started process (PID=22747) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:13.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:49:13.820+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:13.820+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:15.034+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:15.061+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:15.060+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:49:15.074+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:15.073+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:49:15.095+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.284 seconds
+[2026-11-14T13:49:45.381+0000] {processor.py:161} INFO - Started process (PID=22760) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:45.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:49:45.383+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:45.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:46.628+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:49:46.653+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:46.652+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:49:46.664+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:49:46.663+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:49:46.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.311 seconds
+[2026-11-14T13:50:16.964+0000] {processor.py:161} INFO - Started process (PID=22773) to work on /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:50:16.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mental_health_pipeline.py for tasks to queue
+[2026-11-14T13:50:16.970+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:50:16.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:50:18.368+0000] {processor.py:840} INFO - DAG(s) 'mental_health_pipeline' retrieved from /opt/airflow/dags/mental_health_pipeline.py
+[2026-11-14T13:50:18.398+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:50:18.398+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-11-14T13:50:18.410+0000] {logging_mixin.py:188} INFO - [2026-11-14T13:50:18.409+0000] {dag.py:3954} INFO - Setting next_dagrun for mental_health_pipeline to None, run_after=None
+[2026-11-14T13:50:18.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mental_health_pipeline.py took 1.475 seconds

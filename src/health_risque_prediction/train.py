@@ -65,7 +65,8 @@ def build_models(preprocessor):
 def get_param_grids():
     return {
         "Logistic Regression": {
-            "classifier__C": [0.01, 0.1, 1, 10],
+            "classifier__C": [0.01, 0.1, 1, 10, 100],
+            "classifier__max_iter" : [1000, 2000],
         },
         "Random Forest": {
             "classifier__n_estimators": [100, 200],

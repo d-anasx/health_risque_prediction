@@ -1,4 +1,4 @@
 model,best F1-Score,best parameters
-Logistic Regression,0.7604123397687017,{'classifier__C': 10}
+Logistic Regression,0.7610015077007403,"{'classifier__C': 100, 'classifier__max_iter': 1000}"
 SVC,0.7569066998565844,"{'classifier__C': 0.1, 'classifier__gamma': 'scale', 'classifier__kernel': 'linear'}"
 Random Forest,0.6941845051090537,"{'classifier__max_depth': 10, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 200}"
